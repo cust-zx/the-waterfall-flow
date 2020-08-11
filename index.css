@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	background: #C3C3C3;
+}
+
+.box {
+	float: left;
+	width: 210px;
+	padding-left: 10px;
+	padding-top: 10px;
+	background: red;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.img {
+	width: 200px;
+	border: 10px solid #FFFFFF;
+	box-sizing: border-box;
+	vertical-align: bottom;
+}
+
